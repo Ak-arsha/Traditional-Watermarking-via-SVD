@@ -720,11 +720,6 @@ SOFTWARE.
 
 ---
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/svd-medical-watermarking&type=Date)](https://star-history.com/#yourusername/svd-medical-watermarking&Date)
-
----
 
 ## 📊 Statistics
 
@@ -736,11 +731,3 @@ SOFTWARE.
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/svd-medical-watermarking)
 
 ---
-
-<div align="center">
-
-
-[⬆ Back to Top](#svd-based-digital-watermarking-for-medical-retinal-images)
-
-</div>
-```
